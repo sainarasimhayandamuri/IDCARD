@@ -1,0 +1,39 @@
+.n{
+    background-color:white;
+    width:420px;
+    height: auto;
+    padding: 5px;
+    border: 5px solid red;
+    margin: 0;
+}
+.o{
+    background-color:orange;
+    border-radius: 140px;
+    height:100px;
+    width: 415px;
+    padding: 2px;
+    margin: 0;
+}
+ .l
+    {
+        border-radius: 120px;
+    }
+
+.u,.e{
+    display: inline-block;
+}
+.e{
+   position: absolute;
+   padding:25px 40px;
+}
+.a{
+    background-color: greenyellow;
+    width:80px;
+    border-radius: 40px;
+
+}
+.t{
+    background-color: rgb(236, 135, 135);
+    width: 420px;
+    height:auto;
+}
